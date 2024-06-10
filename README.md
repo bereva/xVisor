@@ -1,5 +1,8 @@
-Starting up...
+Bereva xVisor
 
-Componenti e dispositivi per il controllo e la regolazione
-dei fluidi e dei gas nelle macchine e nei circuiti dedicati
-alla refrigerazione, condizionamento e riscaldamento
+Bereva supevisioning tool for test & laboratory purposes of xBALL family devices such as xBALL 3.0 (Replacement) and xBALL 4.0 (Controller). 
+
+Minimum requirements:
+ - Windows 10
+ - Bluetooth dongle BLED112 by Silicon Labs (https://www.silabs.com/wireless/bluetooth/bluegiga-low-energy-legacy-modules/device.bled112?tab=specs)
+ - Bereva xBALL 3.0 (Replacement) and/or 4.0 (Controller)
